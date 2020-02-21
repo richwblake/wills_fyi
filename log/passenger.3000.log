@@ -1,0 +1,42 @@
+[ N 2020-02-20 22:41:43.8667 21021/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2020-02-20 22:41:43.8858 21024/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2020-02-20 22:41:43.8860 21024/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 22:41:43.8968 21024/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 21024
+[ N 2020-02-20 22:41:46.4990 21024/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2020-02-20 22:43:08.2649 21024/T9 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 22:43:08.2650 21024/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 22:43:08.2650 21024/T1 age/Cor/CoreMain.cpp:1147 ]: Checking whether to disconnect long-running connections for process 21099, application /home/wills/Developer/web/Sinatra/wills_fyi (development)
+[ N 2020-02-20 22:43:08.2652 21024/Ta Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2020-02-20 22:43:08.2652 21024/Ta Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2020-02-20 22:43:08.2652 21024/Td Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2020-02-20 22:43:08.2653 21024/Td Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2020-02-20 22:43:08.2653 21024/Te Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2020-02-20 22:43:08.2653 21024/Te Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2020-02-20 22:43:08.2655 21024/T9 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 22:43:08.2655 21024/T9 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 22:43:08.2658 21024/Tg Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 22:43:08.2658 21024/Tg Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2020-02-20 22:43:08.2660 21024/T1 age/Cor/CoreMain.cpp:1147 ]: Checking whether to disconnect long-running connections for process 21099, application /home/wills/Developer/web/Sinatra/wills_fyi (development)
+[ N 2020-02-20 22:43:09.1327 21024/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
+[ N 2020-02-20 22:43:12.4311 21182/T1 age/Wat/WatchdogMain.cpp:1373 ]: Starting Passenger watchdog...
+[ N 2020-02-20 22:43:12.4498 21185/T1 age/Cor/CoreMain.cpp:1340 ]: Starting Passenger core...
+[ N 2020-02-20 22:43:12.4500 21185/T1 age/Cor/CoreMain.cpp:256 ]: Passenger core running in multi-application mode.
+[ N 2020-02-20 22:43:12.4609 21185/T1 age/Cor/CoreMain.cpp:1015 ]: Passenger core online, PID 21185
+[ N 2020-02-20 22:43:15.0685 21185/T5 age/Cor/SecurityUpdateChecker.h:519 ]: Security update check: no update found (next check in 24 hours)
+
+[ N 2020-02-20 22:43:29.6440 21185/T8 age/Cor/CoreMain.cpp:671 ]: Signal received. Gracefully shutting down... (send signal 2 more time(s) to force shutdown)
+[ N 2020-02-20 22:43:29.6441 21185/T1 age/Cor/CoreMain.cpp:1246 ]: Received command to shutdown gracefully. Waiting until all clients have disconnected...
+[ N 2020-02-20 22:43:29.6441 21185/T1 age/Cor/CoreMain.cpp:1147 ]: Checking whether to disconnect long-running connections for process 21261, application /home/wills/Developer/web/Sinatra/wills_fyi (development)
+[ N 2020-02-20 22:43:29.6443 21185/Td Ser/Server.h:902 ]: [ServerThr.3] Freed 0 spare client objects
+[ N 2020-02-20 22:43:29.6443 21185/Td Ser/Server.h:558 ]: [ServerThr.3] Shutdown finished
+[ N 2020-02-20 22:43:29.6443 21185/Tb Ser/Server.h:902 ]: [ServerThr.2] Freed 0 spare client objects
+[ N 2020-02-20 22:43:29.6444 21185/Tb Ser/Server.h:558 ]: [ServerThr.2] Shutdown finished
+[ N 2020-02-20 22:43:29.6444 21185/T8 Ser/Server.h:902 ]: [ServerThr.1] Freed 0 spare client objects
+[ N 2020-02-20 22:43:29.6444 21185/T8 Ser/Server.h:558 ]: [ServerThr.1] Shutdown finished
+[ N 2020-02-20 22:43:29.6445 21185/Th Ser/Server.h:902 ]: [ApiServer] Freed 0 spare client objects
+[ N 2020-02-20 22:43:29.6445 21185/Th Ser/Server.h:558 ]: [ApiServer] Shutdown finished
+[ N 2020-02-20 22:43:29.6447 21185/Tf Ser/Server.h:902 ]: [ServerThr.4] Freed 0 spare client objects
+[ N 2020-02-20 22:43:29.6447 21185/Tf Ser/Server.h:558 ]: [ServerThr.4] Shutdown finished
+[ N 2020-02-20 22:43:29.6450 21185/T1 age/Cor/CoreMain.cpp:1147 ]: Checking whether to disconnect long-running connections for process 21261, application /home/wills/Developer/web/Sinatra/wills_fyi (development)
+[ N 2020-02-20 22:43:30.4920 21185/T1 age/Cor/CoreMain.cpp:1325 ]: Passenger core shutdown finished
