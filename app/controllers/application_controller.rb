@@ -15,4 +15,8 @@ class ApplicationController < Sinatra::Base
     erb :cv
   end
 
+  get '/updates' do
+    erb :updates
+  end
+
 end
