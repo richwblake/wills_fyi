@@ -12,7 +12,7 @@ class ApplicationController < Sinatra::Base
   end
 
   get '/cv' do
-    
+    erb :cv
   end
 
 end
