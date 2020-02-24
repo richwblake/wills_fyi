@@ -1,0 +1,53 @@
+html {
+    background-color: rgb(17, 26, 26);
+    padding-left: 15%;
+    padding-right: 15%;
+  }
+  
+  .top-logo {
+    color: skyblue;
+    font-family: 'Source Sans Pro';
+    font-size: 150%;
+  }
+  
+  .site-links-container {
+    list-style-type: none;
+    margin: -3px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border-radius: 10px;
+  }
+  
+  .site-links {
+    font-family: 'Source Sans pro';
+    font-size: 100%;
+    margin: inherit;
+    padding: inherit;
+  }
+  
+  .link {
+    color: skyblue;
+    display: block;
+    float: left;
+    text-align: center;
+    padding-right: 16px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+    .site-links .link:hover {
+      background-color: skyblue;
+      color: black;
+    }
+  
+    .intro-message {
+      color: floralwhite;
+      font-family: 'Source Sans Pro';
+    }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
