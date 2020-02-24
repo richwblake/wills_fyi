@@ -17,6 +17,8 @@ html {
     overflow: hidden;
     background-color: black;
     border-radius: 10px;
+    display: table;
+
 }
 
 .site-links {
@@ -31,7 +33,7 @@ html {
     display: block;
     float: left;
     text-align: center;
-    padding-right: 16px;
+    padding-right: 10px;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -53,12 +55,12 @@ html {
 }
 
 .update-title-and-version {
-    color: skyblue;
+    color: floralwhite;
     font-family: 'Source Sans Pro';
 }
 
 .update-description {
-    color: skyblue;
+    color: floralwhite;
     font-family: 'Source Sans Pro';
 }
 
