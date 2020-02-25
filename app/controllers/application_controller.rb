@@ -19,4 +19,8 @@ class ApplicationController < Sinatra::Base
     erb :updates
   end
 
+  get '/aboutme' do
+    erb :about_me
+  end
+
 end

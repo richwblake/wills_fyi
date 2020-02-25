@@ -4,10 +4,11 @@ html {
     padding-right: 15%;
 }
 
-.top-logo {
+.top-logo h1 {
     color: skyblue;
     font-family: 'Source Sans Pro';
-    font-size: 150%;
+    font-size: 80px;
+    margin-bottom: 20px;
 }
 
 .site-links-container {
@@ -18,12 +19,11 @@ html {
     background-color: black;
     border-radius: 10px;
     display: table;
-
 }
 
 .site-links {
     font-family: 'Source Sans pro';
-    font-size: 100%;
+    font-size: 120%;
     margin: inherit;
     padding: inherit;
 }
@@ -47,6 +47,7 @@ html {
 .intro-message {
     color: floralwhite;
     font-family: 'Source Sans Pro';
+    font-size: 15px;
 }
 
 .cv-title {
@@ -64,6 +65,14 @@ html {
     font-family: 'Source Sans Pro';
 }
 
+.about-me-title {
+    color: floralwhite;
+    font-family: 'Source Sans Pro';
+}
+
+.about-me-content h4 {
+    font-size: 150%;
+}
 
 a {
     color: inherit;
