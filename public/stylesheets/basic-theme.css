@@ -7,7 +7,7 @@ html {
 .top-logo h1 {
     color: skyblue;
     font-family: 'Source Sans Pro';
-    font-size: 80px;
+    font-size: 65px;
     margin-bottom: 20px;
 }
 
@@ -23,7 +23,7 @@ html {
 
 .site-links {
     font-family: 'Source Sans pro';
-    font-size: 120%;
+    font-size: 100%;
     margin: inherit;
     padding: inherit;
 }
