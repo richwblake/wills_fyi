@@ -11,6 +11,10 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
 
+  get '/blog' do
+    erb :blog_placeholder
+  end
+
   get '/cv' do
     erb :cv
   end
